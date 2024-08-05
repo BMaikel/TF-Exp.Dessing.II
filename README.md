@@ -1,7 +1,13 @@
-# Una Aplicación del Diseño de Superficie de Respuesta
+# An Application of Response Surface Methodology
 
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## Repositorio
+Este repositorio contiene:
+- Código en R para la replicación de los resultados.
+- Datos experimentales utilizados en el estudio.
+- Documentación adicional sobre la metodología y los análisis realizados.
 
 ## Descripción
 Este proyecto aplica la Metodología de Superficie de Respuesta (RSM) y la Programación Lineal para desarrollar un néctar mixto de alta aceptabilidad y bajo costo. El trabajo se enfoca en optimizar las proporciones de maracuyá, pepino dulce, sacarosa y agua, utilizando diseños experimentales y técnicas de optimización de costos. 
@@ -26,11 +32,7 @@ Finalmente, se utilizó la Programación Lineal para reducir el costo del nécta
 ## Resultados
 Se obtuvo un néctar mixto de alta aceptabilidad con una puntuación óptima de 7 en una escala hedónica. La Programación Lineal permitió reducir el costo del néctar a S/.174 para una producción de 1000 L/día.
 
-## Repositorio
-Este repositorio contiene:
-- Código en R para la replicación de los resultados.
-- Datos experimentales utilizados en el estudio.
-- Documentación adicional sobre la metodología y los análisis realizados.
+![Resultado](Images/image.png)
 
 ## Referencias
 López Calderón, E., Arteaga Miñano, H., Castro Santander, P., Nolasco Pérez, I., & Siche, R. (2012). El Método de Superficie Respuesta y la Programación Lineal en el desarrollo de un néctar mixto de alta aceptabilidad y mínimo costo. *Scientia Agropecuaria*, 3, 309-318.
