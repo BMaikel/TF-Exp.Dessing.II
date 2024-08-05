@@ -1,5 +1,8 @@
 # Una Aplicación del Diseño de Superficie de Respuesta
 
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ## Descripción
 Este proyecto aplica la Metodología de Superficie de Respuesta (RSM) y la Programación Lineal para desarrollar un néctar mixto de alta aceptabilidad y bajo costo. El trabajo se enfoca en optimizar las proporciones de maracuyá, pepino dulce, sacarosa y agua, utilizando diseños experimentales y técnicas de optimización de costos. 
 Trabajo final para el curso de Diseños Experimentales II - Ciclo 2024 - I
